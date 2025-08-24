@@ -1,0 +1,83 @@
+:root {
+  color-scheme: light dark;
+
+  --white: hsl(160, 29%, 97%);
+  --green: hsl(160, 100%, 40%);
+  --grey: hsl(160, 100%, 30%);
+  --black: hsl(160, 85%, 5%);
+
+  --fg: light-dark(var(--black), var(--white));
+  --bg: light-dark(var(--white), var(--black));
+}
+
+* { box-sizing:border-box }
+
+body {
+  max-width: 60em;
+  margin: 2em auto;
+  padding: 1em;
+  font: 16px / 1.5 sans-serif;
+  color: var(--fg);
+  background: var(--bg);
+}
+
+a {
+  font-weight: bold;
+  color: light-dark(var(--grey), var(--green));
+  text-decoration: none;
+  text-decoration-thickness: 2px;
+  &:hover { text-decoration: underline; }
+}
+
+
+h1 { border-bottom: 2px solid currentColor; }
+h2 { border-bottom: 1px solid currentColor; }
+
+header {
+  display: flex;
+  flex: row wrap;
+  justify-content: space-between;
+  margin-bottom: 3em;
+
+  .foc.title {
+    position: relative;
+    margin-top: -2%;
+    font-size: min(3em, 6vw);
+    color: light-dark();
+
+    &:hover { text-decoration: none };
+
+    img {
+      position: absolute;
+      top: -.7em;
+      left: -.7em;
+      width: 11.7em;
+      max-width: none;
+      z-index: -1;
+      opacity: .5;
+    }
+  }
+}
+
+nav {
+  display: grid;
+  gap: 1em;
+}
+
+blockquote {
+  margin: 0;
+  opacity: .5;
+  border-left: 4px solid currentColor;
+  padding-left: 1em;
+}
+
+/* Episodes */
+.date { font-family: monospace; margin-right: 1.5em; color: #444; text-transform: uppercase; }
+@media (prefers-color-scheme: dark) {.date {color: #98B2A9 }}
+
+
+@media (max-width: 1012px) {
+  .foc.title {
+    margin-top: -32px;
+  }
+}
