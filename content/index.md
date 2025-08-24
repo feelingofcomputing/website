@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Feeling of Computing
 ---
 
 **Feeling of Computing** is an online community with a welcoming, cooperative, and revolutionary spirit. We are unified in the belief that the computer is tragically less humane than it could be. There's a world of possibilities that get more beautiful the further away from the norm you go. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts to _reimagine the computer_.
