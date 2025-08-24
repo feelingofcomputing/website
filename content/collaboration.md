@@ -5,7 +5,7 @@ title: Collaboration
 
 # Collaboration
 
-One of the goals of the Future of Coding is to foster collaboration. Many of us are working on projects to bring about some vision of futuristic computing. Others don't have a project of their own but would still like to contribute. There are even a few folks independently working on projects for the community itself. The resources on this page will help all our members combine their efforts.
+One of the goals of the Feeling of Computing is to foster collaboration. Many of us are working on projects to bring about some vision of futuristic computing. Others don't have a project of their own but would still like to contribute. There are even a few folks independently working on projects for the community itself. The resources on this page will help all our members combine their efforts.
 
 Table of Contents
 * [Projects Seeking Contributions](#projects-seeking-contributions)
@@ -20,7 +20,7 @@ Table of Contents
 
 Are you working on a project that represents your vision for the future of computing? Do you want contributions from our community members? [Get in touch](/contact), and we will list it here. Please provide the name of your project, a link to any relevant pages, and what sorts of contribution you would appreciate.
 
-* [Future of Coding Website](http://github.com/feelingofcomputing/futureofcoding.org) — Yes, the website itself is a project that welcomes contributions. If you'd like to add information, fix errors, or make improvements (especially to the visual design), talk to @ivanreese in the Slack or open a PR.
+* [Feeling of Computing Website](http://github.com/feelingofcomputing/website) — Yes, the website itself is a project that welcomes contributions. If you'd like to add information, fix errors, or make improvements (especially to the visual design), talk to @ivanreese in the Slack or open a PR.
 
 <br>
 
@@ -34,7 +34,7 @@ If you'd like to contribute to a project, [get in touch](/contact) and we will l
 
 [**https://www.github.com/feelingofcomputing**](https://www.github.com/feelingofcomputing)
 
-There is a Future of Coding Github organization. If you would like to host your FoC project under the community banner, or if you are working on a project for the community itself, you are welcome to use this organization. [Get in touch](/contact) to ask for an invite.
+There is a Feeling of Computing Github organization. If you would like to host your FoC project under the community banner, or if you are working on a project for the community itself, you are welcome to use this organization. [Get in touch](/contact) to ask for an invite.
 
 <br>
 
@@ -42,7 +42,7 @@ There is a Future of Coding Github organization. If you would like to host your 
 
 [**Google Sheet**](https://docs.google.com/spreadsheets/d/12sTu7RT-s_QlAupY1v-3DfI1Mm9NEX5YMWWTDAKHLfc)
 
-This is a spreadsheet listing Future of Coding projects in and around the community. It's not an exhaustive listing, but it does provide an interesting starting point to see who here is working on what, plus a few projects elsewhere that might be of interest to our members. If you're looking for a project to contribute to, this is one place to explore your options. If you are working on a project, you may edit the spreadsheet to add your project (please stick to the existing format).
+This is a spreadsheet listing Feeling of Computing projects in and around the community. It's not an exhaustive listing, but it does provide an interesting starting point to see who here is working on what, plus a few projects elsewhere that might be of interest to our members. If you're looking for a project to contribute to, this is one place to explore your options. If you are working on a project, you may edit the spreadsheet to add your project (please stick to the existing format).
 
 <br>
 

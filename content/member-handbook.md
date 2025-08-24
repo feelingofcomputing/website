@@ -55,7 +55,7 @@ Each of our channels has a specific purpose, but it's common that a discussion c
 
 When you first join the community, post here! Tell us about your background, your interests, how you got into computer futurism, how you found the Slack — anything that'll help us get to know you as a new member of the community. Feel free to share past project URLs, and tag other members you know.
 
-Don't use this channel to talk about a startup or company. We want to learn about you as a person. If all your Future of Coding-relevant work happens to be taking place within a startup, talk about the nature of the work, not the name and nature of the startup. Rather than linking to the startup homepage, link to a blog post or technical document that describes something interesting about what you're working on.
+Don't use this channel to talk about a startup or company. We want to learn about you as a person. If all your Feeling of Computing-relevant work happens to be taking place within a startup, talk about the nature of the work, not the name and nature of the startup. Rather than linking to the startup homepage, link to a blog post or technical document that describes something interesting about what you're working on.
 
 Our community moderators are very sensitive to posts in this channel that feel even slightly like company spam. The mods may delete your post and message you about it. They'll encourage you to post again, and help you rewrite your introduction to be more appropriate for our audience.
 
@@ -85,7 +85,7 @@ This is the channel for discussion about your own work, with a particular emphas
 
 ### #two-minute-week
 
-Once each week, post a 2-minute (max) video explaining your most recent progress on your own Future of Coding project. [Learn More](/two-minute-week)
+Once each week, post a 2-minute (max) video explaining your most recent progress on your own Feeling of Computing project. [Learn More](/two-minute-week)
 
 ### #random-encounters
 

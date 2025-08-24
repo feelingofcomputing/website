@@ -7,7 +7,7 @@ title: Welcome
 <br>
 
 ## 🚧 We're Renovating
-> The community is getting a new name! The original, still widely known name was **Future of Coding**. Read about [the motivation](https://futureofcoding.org/the-name). You'll still see the old name basically everywhere — apologies for the confusion. Bear with us.
+> The community is getting a new name! The original, still widely known name was **Future of Coding**. Read about [the motivation](/the-name). You'll still see the old name basically everywhere — apologies for the confusion. Bear with us.
 
 <br>
 
@@ -34,7 +34,7 @@ The most recent episode is: [77 • As We May Think by Vannevar Bush](/episodes/
 
 ### Wiki
 
-Just launched — we now have a [wiki](https://wiki.futureofcoding.org) that anyone can edit. It's a place to organize the links and projects and ideas amassed during our Slack discussions. The project is still very (very) young, so please share your desires and frustrations on the Slack in #present-company.
+Just launched — we now have a [wiki](https://wiki.futureofcoding.org) that anyone can edit. It's a place to organize the links and projects and ideas amassed during our Slack discussions. The project is still very (very) young, so please share your desires and frustrations on the Slack in #present-company.
 
 <br>
 
@@ -66,7 +66,7 @@ If you'd like to read up a bit on the ideas our community was formed around, [Ch
 
 ### Contact
 
-Head to our [contact](/contact) page to get in touch. Spotted an error? You can open a PR for this website [on Github](https://github.com/feelingofcomputing/futureofcoding.org).
+Head to our [contact](/contact) page to get in touch. Spotted an error? You can open a PR for this website [on Github](https://github.com/feelingofcomputing/website).
 
 See you in the future!
 
