@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "coffeescript": "^2.7.0",
     "markdown-it": "^14.1.0"
   },
   "engines": {
