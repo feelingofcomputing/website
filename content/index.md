@@ -7,14 +7,14 @@ title: Feeling of Computing
 <br>
 
 ## 🚧 We're Renovating
-> The community is getting a new name! The original, still widely known name was **Future of Coding**. Read about [the motivation](/the-name). You'll still see the old name basically everywhere — apologies for the confusion. Bear with us.
+
+> The community is getting a new name! The original, still widely known name was **Future of Coding**. Read [the motivation.](/the-name) You'll still see the old name basically everywhere — apologies for the confusion. Bear with us.
 
 <br>
 
 ### Community
 
 We share ideas, prototypes, weekly videos, and inspirational links, with a friendly tone and an inclusive [code of conduct](https://github.com/feelingofcomputing/code-of-conduct). You are heartily encouraged to [join](/community).
-
 
 <br>
 

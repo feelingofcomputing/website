@@ -1,8 +1,15 @@
 {
   "devDependencies": {
-    "coffeescript": "^2.7.0",
-    "markdown-it": "^14.1.0"
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^24.0.4",
+    "@types/ws": "^8.18.0",
+    "chokidar": "^4.0.1",
+    "glob": "^11.0.0",
+    "markdown-it": "^14.1.0",
+    "typescript": "^5.8.2",
+    "ws": "^8.18.1"
   },
+  "type": "module",
   "engines": {
     "node": ">=22.0.0"
   }

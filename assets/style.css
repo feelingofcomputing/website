@@ -1,3 +1,4 @@
+/* Globals */
 :root {
   color-scheme: light dark;
 
@@ -10,58 +11,39 @@
   --bg: light-dark(var(--white), var(--black));
 }
 
+/* Resets */
 * { box-sizing:border-box }
+
+/* Fonts */
+h1   { font: 300 32px / 32px sans-serif; }
+h2   { font: 300 24px / 27px sans-serif; }
+h3   { font: 300 20px / 25px sans-serif; }
+h4   { font: 300 16px / 24px sans-serif; }
+body { font: 400 16px / 24px sans-serif; }
+h5   { font: 500 14px / 21px sans-serif; }
+h6   { font: 500 12px / 18px sans-serif; }
+
+/* Structural elements */
 
 body {
   max-width: 60em;
-  margin: 2em auto;
-  padding: 1em;
-  font: 16px / 1.5 sans-serif;
+  margin: 0 auto;
+  padding: 2em 1em;
   color: var(--fg);
   background: var(--bg);
 }
 
-a {
-  font-weight: bold;
-  color: light-dark(var(--grey), var(--green));
-  text-decoration: none;
-  text-decoration-thickness: 2px;
-  &:hover { text-decoration: underline; }
-}
+/* Block elements */
 
+h1, h2, h3, h4, h5, h6 {
+  margin-block: 0 1rem;
+}
 
 h1 { border-bottom: 2px solid currentColor; }
 h2 { border-bottom: 1px solid currentColor; }
 
-header {
-  display: flex;
-  flex: row wrap;
-  justify-content: space-between;
-  margin-bottom: 3em;
-
-  .foc.title {
-    position: relative;
-    margin-top: -2%;
-    font-size: min(3em, 6vw);
-    color: light-dark();
-
-    &:hover { text-decoration: none };
-
-    img {
-      position: absolute;
-      top: -.7em;
-      left: -.7em;
-      width: 11.7em;
-      max-width: none;
-      z-index: -1;
-      opacity: .5;
-    }
-  }
-}
-
-nav {
-  display: grid;
-  gap: 1em;
+p {
+  margin-block: 0 1rem;
 }
 
 blockquote {
@@ -71,13 +53,74 @@ blockquote {
   padding-left: 1em;
 }
 
-/* Episodes */
+/* Inline elements */
+
+a {
+  font-weight: bold;
+  color: light-dark(var(--grey), var(--green));
+  text-decoration: none;
+  text-decoration-thickness: 2px;
+  border-radius: 1px; /* This rounds the corners of the focus outline */
+  outline-offset: 2px;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+  opacity: .9;
+}
+
+a:focus-within {
+  outline: solid 3px var(--link-color);
+}
+
+a.anchor {
+  opacity: 0;
+}
+
+*:hover > a.anchor,
+*:focus-within > a.anchor {
+  opacity: 1;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle; /* Remove default space under images */
+}
+
+/* Header */
+
+header {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.foc.title {
+  position: relative;
+  font-size: min(3em, 8vw);
+}
+
+.foc.title:hover { text-decoration: none }
+
+.foc.title img {
+  position: absolute;
+  top: -1.2em;
+  left: -.7em;
+  width: 11.7em;
+  max-width: none;
+  z-index: -1;
+  opacity: .5;
+}
+
+nav {
+  display: grid;
+  gap: .5em;
+}
+
+/* Assorted other styles */
+
 .date { font-family: monospace; margin-right: 1.5em; color: #444; text-transform: uppercase; }
 @media (prefers-color-scheme: dark) {.date {color: #98B2A9 }}
-
-
-@media (max-width: 1012px) {
-  .foc.title {
-    margin-top: -32px;
-  }
-}
