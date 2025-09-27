@@ -34,7 +34,7 @@ The most recent episode is: [78 • Let's Take Esoteric Programming Languages Se
 
 ### Wiki
 
-Just launched — we now have a [wiki](https://wiki.futureofcoding.org) that anyone can edit. It's a place to organize the links and projects and ideas amassed during our Slack discussions. The project is still very (very) young, so please share your desires and frustrations on the Slack in #present-company.
+Just launched — we now have a [wiki](https://wiki.feelingof.com) that anyone can edit. It's a place to organize the links and projects and ideas amassed during our Slack discussions. The project is still very (very) young, so please share your desires and frustrations on the Slack in #present-company.
 
 <br>
 

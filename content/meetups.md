@@ -12,7 +12,7 @@ Each month, typically on the last Wednesday in the morning (Americas) / evening 
 Here's a playlist on YouTube with [all our past meetups](https://www.youtube.com/playlist?list=PLCC8lmauZTzeEP7mIsOOI4HKeeyBN2rIy).
 
 #### Attending
-Everyone is welcome to attend! We usually have about 10-20 people with a mix of regulars and newcomers. We announce the meetup a few days before it starts in the [#announcements](/member-handbook#announcements) channel. You can also subscribe to our [Luma calendar](https://lu.ma/futureofcoding).
+Everyone is welcome to attend! We usually have about 10-20 people with a mix of regulars and newcomers. We announce the meetup a few days before it starts in the [#announcements](/member-handbook#announcements) channel. You can also subscribe to our [Luma calendar](https://luma.com/feelingofcomputing).
 
 #### Presenting
 Everyone is welcome to present, and all forms of presentation are welcome. Most people share demos of their personal projects, though we've also had people share something they're excited about, or teach the group about something, or just host a brief open discussion on some topic. We have a standard format (outlined below), but we're also open to other ideas if you want to try something new.
