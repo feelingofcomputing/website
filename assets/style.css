@@ -92,27 +92,14 @@ img {
 header {
   display: flex;
   flex-flow: row wrap;
-  align-items: center;
+  align-items: start;
   justify-content: space-between;
-  gap: 1em;
-  margin-bottom: 2em;
+  gap: 0 2em;
+  margin-bottom: 1em;
 }
-
-.foc.title {
-  position: relative;
-  font-size: min(3em, 8vw);
-}
-
-.foc.title:hover { text-decoration: none }
 
 .foc.title img {
-  position: absolute;
-  top: -1.2em;
-  left: -.7em;
-  width: 11.7em;
-  max-width: none;
-  z-index: -1;
-  opacity: .5;
+  width: 100%;
 }
 
 nav {
