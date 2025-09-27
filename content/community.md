@@ -25,7 +25,7 @@ Next, there's an entire family of tools created by community member [Mariano Gue
 * [History](https://history.futureofcoding.org/) — View discussions within a chosen date range.
 * [Search](https://search.futureofcoding.org/) — An alternative to Linen, with richer info in the search results. Click the date on a message to view it in context.
 * [Links](https://links.futureofcoding.org/) — Every link that's ever been shared.
-* [People](https://history.futureofcoding.org/people) — A directory of community members, with links to their personal websites or social profiles. Not exhaustive.
+* [People](https://people.futureofcoding.org/) — A directory of community members, with links to their personal websites or social profiles. Not exhaustive.
 
 Here's a tool by community member [Kartik Agaram](http://akkartik.name):
 * [Archives](http://akkartik.name/archives/foc/) — Index pages that load the full history of any channel all on one page. As a bonus, to quickly pull up the `#introduce-yourself` post for any member, use [this bookmarklet](http://akkartik.name/archives/foc/share-your-work/1650304069.425419.html) or format a link like this: [http://akkartik.name/archives/foc/introduce-yourself/Kartik-Agaram.html](http://akkartik.name/archives/foc/introduce-yourself/Kartik-Agaram.html)
