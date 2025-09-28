@@ -6,12 +6,6 @@ title: Feeling of Computing
 
 <br>
 
-## 🚧 We're Renovating
-
-> The community is getting a new name! The original, still widely known name was **Future of Coding**. Read [the motivation.](/the-name) You'll still see the old name in a few places — apologies for the confusion. Bear with us.
-
-<br>
-
 ### Community
 
 We share ideas, prototypes, weekly videos, and inspirational links, with a friendly tone and an inclusive [code of conduct](https://github.com/feelingofcomputing/code-of-conduct). You are heartily encouraged to [join](/community).
@@ -56,19 +50,11 @@ One of our special projects is the [Whole Code Catalog](/catalog), a collection 
 
 <br>
 
-### About
-
-The community was originally founded by [Steve Krouse](https://stevekrouse.com), and you can read a lot more about his ideas and research [here](/about). The current steward of the community is [Ivan Reese](https://ivanish.ca). Thanks to Kartik, Mariano, Jimmy, Lu, and Ibro for their help.
-
-If you'd like to read up a bit on the ideas our community was formed around, [Chris Novello's _Computer Utopias_ curriculum](http://chrisnovello.com/teaching/risd/computer-utopias/) (particularly Week 3 & 4) and [The New Media Reader](https://mitpress.mit.edu/books/new-media-reader) are fantastic resources. Fancy a video? This [Alan Kay](https://www.youtube.com/watch?v=aYT2se94eU0) talk is foundational.
-
-<br>
-
 ### Contact
 
-Head to our [contact](/contact) page to get in touch. Spotted an error? You can open a PR for this website [on Github](https://github.com/feelingofcomputing/website).
+Head to our [contact](/contact) page to learn more about the community organizers and get in touch. Spot an error? You can open a PR for this website [on Github](https://github.com/feelingofcomputing/website).
 
-See you in the future!
+Enjoy the feeling!
 
 <!-- Anyone involved in the community who would like to verify their Mastodon link, let me know and I'll add you here! -->
 
