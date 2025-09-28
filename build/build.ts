@@ -48,7 +48,7 @@ export function build(): void {
       })
     }
 
-    const html = layout.replace("{{content}}", body).replace("{{title}}", data.title || "")
+    const html = layout.replace("{{content}}", body).replaceAll("{{title}}", data.title || "")
 
     write(dest, html)
   }
