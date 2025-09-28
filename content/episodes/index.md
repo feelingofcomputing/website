@@ -6,7 +6,7 @@ title: Podcast
 
 Listen in your podcast player by searching for **Feeling of Computing**, or via [Apple Podcasts](https://podcasts.apple.com/podcast/future-of-coding/id1265527976) \| [Overcast](https://overcast.fm/itunes1265527976) \| [RSS](https://omny.fm/shows/feeling-of-computing/playlists/podcast.rss)
 
-[Support the show](https://www.patreon.com/feelingofcomputing) to enjoy our bonus episodes and the warmth of your own heart.
+[Support the show](https://feelingoff.com) to enjoy our bonus episodes and the warmth of your own heart.
 
 <br>
 
