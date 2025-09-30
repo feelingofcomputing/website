@@ -32,6 +32,11 @@ export const ensureDir = (path: string) => {
 }
 
 export const copyfolder = (path: string, dest: string) => FS.cpSync(path, dest, { recursive: true, filter: (src) => !basename(src).startsWith(".") })
+export const copyassets = (path: string, dest: string) =>
+  FS.cpSync(path, dest, {
+    recursive: true,
+    filter: (src) => !basename(src).startsWith(".") && !Path.extname(src).endsWith("html") && !Path.extname(src).endsWith("md"),
+  })
 
 export const read = (path: string) => FS.readFileSync(path).toString()
 export const mkdir = (path: string) => FS.mkdirSync(path, { recursive: true })

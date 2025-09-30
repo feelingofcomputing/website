@@ -1,5 +1,5 @@
 import MarkdownIt from "markdown-it"
-import { anchorize, copyfolder, duration, glob, log, mkdir, plainify, read, replace, replaceHtmlTag, rm, write } from "./util.ts"
+import { anchorize, copyassets, copyfolder, duration, glob, log, mkdir, plainify, read, replace, replaceHtmlTag, rm, write } from "./util.ts"
 
 const Markdown = MarkdownIt({ html: true, typographer: true })
 
@@ -10,6 +10,7 @@ export function build(): void {
   mkdir("public")
 
   copyfolder("assets", "public")
+  copyassets("content", "public")
 
   const layout = read("build/layout.html")
 
