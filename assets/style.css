@@ -95,9 +95,27 @@ a.anchor {
   opacity: 1;
 }
 
-img {
+img,
+svg,
+video,
+iframe {
+  /*
+    To make your element responsive while avoiding layout shift:
+    a) set width and height attributes on the tag, or
+    b) set width and aspect-ratio properties in CSS.
+    (There are other more advanced options, but the above are the simplest best practice.)
+    The following rules make (a) and (b) do the right thing.
+  */
   max-width: 100%;
-  vertical-align: middle; /* Remove default space under images */
+  height: auto;
+
+  /* Removes a tiny bit of added space at the bottom of inline replaced content */
+  vertical-align: middle;
+}
+
+video,
+iframe {
+  width: 100%;
 }
 
 /* Header */
@@ -113,6 +131,7 @@ header {
 
 .foc.title img {
   width: 100%;
+  height: auto;
 }
 
 nav {
