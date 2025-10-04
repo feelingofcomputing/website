@@ -15,11 +15,6 @@ export function build(): void {
   const layout = read("build/layout.html")
 
   for (const path of glob("content/**/*.{md,html}")) {
-    let dest = replace(path, { "content/": "public/", ".md": ".html" })
-    if (!dest.endsWith("/index.html")) {
-      dest = dest.replace(".html", "/index.html")
-    }
-
     const content = read(path).trim()
     const parts = content.split("---")
 
@@ -50,6 +45,13 @@ export function build(): void {
     }
 
     const html = layout.replace("{{content}}", body).replaceAll("{{title}}", data.title || "")
+
+    let dest = replace(path, { "content/": "public/", ".md": ".html" })
+
+    // Convert to "clean URL" style
+    let dontClean = data.clean == "false"
+    let isIndex = dest.endsWith("/index.html")
+    if (!dontClean && !isIndex) dest = dest.replace(".html", "/index.html")
 
     write(dest, html)
   }

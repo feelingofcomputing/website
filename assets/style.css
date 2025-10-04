@@ -25,6 +25,19 @@ h6   { font: 500 12px / 18px sans-serif; }
 
 /* Structural elements */
 
+html {
+  /* Long words may be broken and wrapped. (NB: this doesn't affect min-content lengths) */
+  overflow-wrap: break-word;
+
+  /* Prevent iPhone Safari and Android Firefox from inflating text when the phone is landscape. */
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  text-size-adjust: none;
+
+  /* Reserve space for a scroll bar */
+  scrollbar-gutter: stable;
+}
+
 body {
   max-width: 60em;
   margin: 0 auto;
