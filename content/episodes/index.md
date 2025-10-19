@@ -12,7 +12,7 @@ Listen in your podcast player by searching for **Feeling of Computing**, or via 
 
 **Hosted by [Ivan Reese](https://ivanish.ca), [Jimmy Miller](https://jimmyhmiller.github.io/), and [Lu Wilson](https://todepond.com)**<br> _A curious romp through the field of computing, grappling with our past and present, wondering what should come next. A melange of technical weeds, philosophy, theatrics, obscurities, and reckoning._
 
-<span class="date">2025-07-20</span> [78 • Let's Take Esoteric Programming Languages Seriously](/episodes/078)
+<span class="date">2025-09-26</span> [78 • Let's Take Esoteric Programming Languages Seriously](/episodes/078)
 
 <span class="date">2025-07-20</span> [77 • As We May Think by Vannevar Bush](/episodes/077)
 
