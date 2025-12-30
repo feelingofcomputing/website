@@ -14,12 +14,13 @@ This website is [on Github](https://github.com/feelingofcomputing/feelingofcompu
 
 The following people help organize this community and run our various initiatives.
 
-* [Ivan Reese](https://ivanish.ca) — Steward, Podcast Host
+* [Ivan Reese](https://ivanish.ca) — Community Steward, Podcast, Website, Moderator, etc.
 * [Mariano Guerra](https://marianoguerra.github.io) — Newsletter, Archives, Moderator
 * [Kartik Agaram](http://akkartik.name) — Archives, Moderator
-* [Jimmy Miller](https://jimmyhmiller.com) — Podcast Host, Moderator
-* [Lu Wilson](https://www.todepond.com) — Podcast Host, Moderator
-* [Maikel van de Lisdonk](https://www.devhelpr.com) — Meetup Organizer, Moderator
-* [J. Ryan Stinnett](https://merveilles.town/@jryans) — Matrix Bridge
+* [Jimmy Miller](https://jimmyhmiller.com) — Podcast, Moderator
+* [Lu Wilson](https://www.todepond.com) — Podcast, London Meetup, Moderator
+* [Maikel van de Lisdonk](https://www.devhelpr.com) — Virtual Meetup, Moderator
+* [Mimi Reyburn](https://mimireyburn.com) — London Meetup
+* [chee rabbits](https://chee.party) — London Meetup
 
 Shoutout to [Steve Krouse](https://stevekrouse.com), who launched the community and podcast under the original "Future of Coding" name.

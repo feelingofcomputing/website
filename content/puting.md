@@ -5,7 +5,7 @@ title: puting
 <script>
   var elm = document.body.appendChild(document.createElement("p"))
   elm.style.fontFamily = "monospace"
-  var arr = Array.from("computing ")
+  var arr = Array.from("computing ")
   let pos = 0
   var char = 0
   let sin = (v, s)=> (Math.sin(v) * .5 + .5) * s

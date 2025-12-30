@@ -24,7 +24,7 @@ const tasks = {
   help: {
     help: "Print this help info",
     cmd: () => {
-      console.log(green("\n  Feeling of Computing • Website CLI\n"))
+      console.log(green("\n  Feeling of Computing • Website CLI\n"))
       console.log("  Usage:\n")
       let longestName = Object.keys(tasks).reduce((l, name) => Math.max(l, name.length), 0)
       for (const [name, { help }] of Object.entries(tasks)) console.log(green(`    foc ${name.padEnd(longestName)}  `) + help)

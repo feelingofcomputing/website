@@ -29,16 +29,3 @@ Next, there's an entire family of tools created by community member [Mariano Gue
 
 Here's a tool by community member [Kartik Agaram](http://akkartik.name):
 * [Archives](http://akkartik.name/archives/foc/) — Index pages that load the full history of any channel all on one page. As a bonus, to quickly pull up the `#introduce-yourself` post for any member, use [this bookmarklet](http://akkartik.name/archives/foc/share-your-work/1650304069.425419.html) or format a link like this: [http://akkartik.name/archives/foc/introduce-yourself/Kartik-Agaram.html](http://akkartik.name/archives/foc/introduce-yourself/Kartik-Agaram.html)
-
-### Matrix Bridge
-
-Our 4 most popular channels are bridged to Matrix rooms. They should be accessible in any Matrix client using the following aliases:
-
-* [#_slack_futureofcoding_introduce-yourself:matrix.org](https://matrix.to/#/#_slack_futureofcoding_introduce-yourself:matrix.org)
-* [#_slack_futureofcoding_thinking-together:matrix.org](https://matrix.to/#/#_slack_futureofcoding_thinking-together:matrix.org)
-* [#_slack_futureofcoding_linking-together:matrix.org](https://matrix.to/#/#_slack_futureofcoding_linking-together:matrix.org)
-* [#_slack_futureofcoding_share-your-work:matrix.org](https://matrix.to/#/#_slack_futureofcoding_share-your-work:matrix.org)
-
-You can also search for "Feeling of Computing" (or perhaps the old name, "Future of Coding") in a Matrix client to find them. Note that these Matrix bridged rooms are currently invite-only as a spam prevention measure. If you would like to join, please DM `@jryans:matrix.org` to request an invite. Thanks to [J. Ryan Stinnett](https://merveilles.town/@jryans) for facilitating these rooms, and for suggesting the following etiquette:
-
-* When responding to someone, if your Matrix client supports threads, then use that and you're all set. If your client does not support threads, be sure to use your Matrix client's "reply" feature, rather than (say) block-quoting manually in Markdown or something. Exact steps will differ per client. For Element on the web, you hover on the message to reply to, an action bar appears on the top right of the message, and you can pick "reply" (the curved arrow icon) from there and type your reply. For the Element apps on iOS and Android, you long press on the message to reply to, and then you can choose "reply" from the menu and type your reply.
