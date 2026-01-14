@@ -10,7 +10,9 @@ Listen in your podcast player by searching for **Feeling of Computing**, or via 
 
 <br>
 
-**Hosted by [Ivan Reese](https://ivanish.ca), [Jimmy Miller](https://jimmyhmiller.github.io/), and [Lu Wilson](https://todepond.com)**<br> _A curious romp through the field of computing, grappling with our past and present, wondering what should come next. A melange of technical weeds, philosophy, theatrics, obscurities, and reckoning._
+**Hosted by [Ivan Reese](https://ivanish.ca), [Jimmy Miller](https://jimmyhmiller.com/), and [Lu Wilson](https://todepond.com)**<br> _A curious romp through the field of computing, grappling with our past and present, wondering what should come next. A melange of technical weeds, philosophy, theatrics, obscurities, and reckoning._
+
+<span class="date">2025-09-26</span> [79 • The Computer is a Feeling by Tim Hwang & Omar Rizwan](/episodes/079)
 
 <span class="date">2025-09-26</span> [78 • Let's Take Esoteric Programming Languages Seriously](/episodes/078)
 
@@ -22,7 +24,7 @@ Listen in your podcast player by searching for **Feeling of Computing**, or via 
 
 <span class="date">2025-01-04</span> [74 • Is the Whole Universe a Computer™?](/episodes/074)
 
-<span class="date">2024-08-25</span> [73 • Moving Beyond Syntax: Lessons from 20 Years of Blocks Programming in AgentSheets by Alexander Repenning](/episodes/073)
+<span class="date">2024-08-25</span> [73 • Moving Beyond Syntax by Alexander Repenning](/episodes/073)
 
 <span class="date">2024-06-19</span> [72 • Pygmalion by David C. Smith](/episodes/072)
 
@@ -34,7 +36,7 @@ Listen in your podcast player by searching for **Feeling of Computing**, or via 
 
 <hr>
 
-**Hosted by [Ivan Reese](https://ivanish.ca) and [Jimmy Miller](https://jimmyhmiller.github.io/)**<br> _Close readings of influential works in computer science, with frequent diversions into the absurd. Let's dive in!_
+**Hosted by [Ivan Reese](https://ivanish.ca) and [Jimmy Miller](https://jimmyhmiller.com/)**<br> _Close readings of influential works in computer science, with frequent diversions into the absurd. Let's dive in!_
 
 <span class="date">2023-11-18</span> [68 • Propositions as Types by Philip Wadler](/episodes/068)
 
