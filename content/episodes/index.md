@@ -12,7 +12,7 @@ Listen in your podcast player by searching for **Feeling of Computing**, or via 
 
 **Hosted by [Ivan Reese](https://ivanish.ca), [Jimmy Miller](https://jimmyhmiller.com/), and [Lu Wilson](https://todepond.com)**<br> _A curious romp through the field of computing, grappling with our past and present, wondering what should come next. A melange of technical weeds, philosophy, theatrics, obscurities, and reckoning._
 
-<span class="date">2025-09-26</span> [79 • The Computer is a Feeling by Tim Hwang & Omar Rizwan](/episodes/079)
+<span class="date">2026-01-14</span> [79 • The Computer is a Feeling by Tim Hwang & Omar Rizwan](/episodes/079)
 
 <span class="date">2025-09-26</span> [78 • Let's Take Esoteric Programming Languages Seriously](/episodes/078)
 
