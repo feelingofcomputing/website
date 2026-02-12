@@ -10,7 +10,9 @@ We share and discuss ideas, prototypes, and inspirational links, with a friendly
 
 Before joining the community, please familiarize yourself with the [member handbook](/member-handbook). We have our own cultural norms, and this handbook will help you feel at home.
 
-Skimmed the handbook? Great! You're ready to [join the Feeling of Computing Slack community](https://join.slack.com/t/feelingofcomputing/shared_invite/zt-2vclaz813-Q4pxMtUtNTIHMnohfIm9MQ). (If this link doesn't work, email [hello@feelingof.com](mailto:hello@feelingof.com?subject=The%20Slack%20invite%20link%20has%20expired) and we'll set up a new one.)
+Skimmed the handbook? Great! You're ready to [join the Feeling of Computing Slack community](https://join.slack.com/t/feelingofcomputing/shared_invite/zt-3px1xihyb-MweAASrnXHy~iBgjVEFIAA). (If this link doesn't work, email [hello@feelingof.com](mailto:hello@feelingof.com?subject=The%20Slack%20invite%20link%20has%20expired) and we'll set up a new one.)
+
+<!-- Note to Ivan: If the link expires, open the Slack app and then go to Feeling of Computing at the top left, then choose Invite People to Feeling of Community, and the link generator is at the bottom left -->
 
 <br>
 
