@@ -58,4 +58,4 @@ Enjoy the feeling!
 
 <!-- Anyone involved in the community who would like to verify their Mastodon link, let me know and I'll add you here! -->
 
-<a rel="nofollow me" href="https://mastodon.social/@spiralganglion"></a>
+<a rel="nofollow me" href="https://merveilles.town/@spiralganglion"></a>
