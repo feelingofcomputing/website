@@ -14,7 +14,7 @@ We share ideas, prototypes, weekly videos, and inspirational links, with a frien
 
 ### Meetups
 
-Our members organize meetups and events in cities around the world and online. The [London](https://lu.ma/foclondon) meetup is especially popular and deserves special mention, but you can also [host your own meetup or join our monthly virtual meetup](/meetups).
+Our members organize meetups and events in cities around the world and online. The [London](/london) meetup is especially popular and deserves special mention, but you can also [host your own meetup or join our monthly virtual meetup](/meetups).
 
 <br>
 
