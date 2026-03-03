@@ -1,5 +1,5 @@
 ---
-title: london meetup
+title: feeling of computing, london
 ---
 
 omg!
@@ -14,6 +14,9 @@ the nights are oriented around seven [7-minute demos](https://maggieappleton.com
 
 come along, eat some pizza, and chat to a truly wonderful collection of strange and beautiful people about the computer.
 
-sign up to [the calendar](https://luma.com/foclondon), come be friends on [bluesky](https://bsky.app/profile/feelingof.london), and _without hesitation_ submit a demo for the next event.
+sign up to [the calendar](https://luma.com/foclondon), come be friends on [bluesky](https://bsky.app/profile/feelingof.london), and _without hesitation_ [submit a demo](https://feelingof.london/demo) for the next event.
+
+we keep an archive of [past events](events).
 
 \*[lu](https://www.todepond.com/), [mimi](https://mimireyburn.com/) and [chee](https://chee.party/).
+
