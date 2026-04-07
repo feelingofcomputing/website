@@ -127,6 +127,7 @@ Finally, we have a number of channels for organizing meetups or other activities
 - #in-philadelphia
 - #in-san-francisco
 - #in-seattle
+- #in-scotland
 - #in-southern-california
 - #in-sweden
 
