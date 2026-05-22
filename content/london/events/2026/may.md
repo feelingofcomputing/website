@@ -14,9 +14,9 @@ wow that was so beautiful
     - what do _you_ think about on the dancefloor?
 3. [Lachlan](https://lachlan.of.glass/)
     - look at all these cute [baby robots](https://lachlan.of.glass/project/coding-agent-bot)!!!
-4. [Natalia Talmina](http://nataliatalmina.com/)
+4. Natalia Talmina
     - Natalia implored us not to [lose our humanity](https://medium.com/user-experience-design-1/when-ai-passes-the-capitalist-turing-test-18baacbcf18f) to chat bots
-5. Tony Cheal
+5. [Tony Cheal](https://tonycheal.com/)
     - [CAD tools](https://www.apollonius.design/) so beautiful i cried over the years i lost using SolidWorks™
 7. [River](https://k-monk.org/)
     - dearest River delighted us with music from a home made [instrument](https://clavier36.com/about) inspired by ORCA
