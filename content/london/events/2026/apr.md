@@ -6,13 +6,14 @@ title: apr 2026 | feeling of computing, london
 
 TODO
 
-maya
-sneha
-maf
-nikhar
-jess
-thomas
-james
+[Maya Avendano]("https://www.mayari.io/about") - Veopia, a digital neighbourhood inspired by the towns of Neopets
+[Sneha Belkhale]("https://codercat.xyz/") - NGINX Log visualizer in the style of the old flash game Defend your Castle
+[maf]("https://mrogalski.eu/") - custom, programmable, hand-held keyboard. includes clay!
+[nikhar]("https://www.instagram.com/notscinotart/") - creating music from nature with MOTH open-source synth
+[Jessica Claire Edwards]("https://github.com/jsscclr") - A language server for UI
+[Thomas Lawrence]("https://www.youtube.com/watch?v=xTcL9EMgLiE") -  a tool to create immersive 360 image and video content
+[James Greenaway]("https://jvg.omg.lol/") - Sync Different, Modern sync for classic iPods.
+
 
 ## drinks
 
