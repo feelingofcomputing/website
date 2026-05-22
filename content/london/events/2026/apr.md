@@ -5,7 +5,7 @@ title: apr 2026 | feeling of computing, london
 ## demos
 
 1. [Maya Avendano](https://www.mayari.io/about)
-    - Veopia, a digital neighbourhood inspired by the towns of Neopets
+    - [Veopia](http://veopia.net/), a digital neighbourhood inspired by the towns of Neopets
 2. [Sneha Belkhale](https://codercat.xyz/)
     - NGINX Log visualizer in the style of the old flash game Defend your Castle
 3. [maf](https://mrogalski.eu/)
@@ -18,6 +18,7 @@ title: apr 2026 | feeling of computing, london
     -  a tool to create immersive 360 image and video content
 7. [James Greenaway](https://jvg.omg.lol/)
     - Sync Different, Modern sync for classic iPods.
+    - we all listened to britney spears together
 
 
 ## drinks
