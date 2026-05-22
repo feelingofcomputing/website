@@ -38,7 +38,7 @@ yard sale, hackney rd.
 - 2 Vegan Margherita (18" Standard)
 - 2 American Not (18" Standard
 - 1 Margherita (12" Gluten Free)
-- 1 Yalla Tamini (12" Gluten Free)
+- 1 Yalla Tamimi (12" Gluten Free)
 - 1 Vegan Margherita (12" Gluten Free)
 
 ### drinks
