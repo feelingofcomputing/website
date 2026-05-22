@@ -41,7 +41,7 @@ yard sale, hackney rd.
 - 1 Yalla Tamimi (12" Gluten Free)
 - 1 Vegan Margherita (12" Gluten Free)
 
-### drinks
+## drinks
 
 - a million and one DASH limes, raspberry and cherry
   - later also grapefruit and peach
@@ -49,6 +49,12 @@ yard sale, hackney rd.
 - lime dash
 - contents of the fridge at Newspeak House (I saw some G&Ts and some with the green label that i forgot what they're called)
   - _\[Editor's note: is it the little gordons tinnies? hey did you hear they put that chicken wine in a can now? chicken tinnies?\]_
+    - _\[other editor's note: Yes, the gordons. That's so weird?! Wine in a can - not sure how to feel about that.\]_
 - lime dash
 - water
 - lime dash
+
+## comments 
+
+- someone told me that the event gave them the feelings of "touching grass" and that's the feelings of computing i want everyone to have 
+
