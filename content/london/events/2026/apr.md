@@ -14,7 +14,8 @@ title: apr 2026 | feeling of computing, london
 5. [nikhar](https://www.instagram.com/notscinotart/)
     - nikhar took us on a dreamy and beautiful journey making music from nature with the MOTH quantum open-source synth
 5. [Jessica Claire Edwards](https://github.com/jsscclr)
-    - Jessica showed
+    - Jessica showed us a tighter, livelier connection between the visual style of the running program and the programming environment
+    - [ui-lsp](https://github.com/jsscclr/ui-lsp)
 6. [Thomas Lawrence](https://www.youtube.com/watch?v=xTcL9EMgLiE)
     -  Thomas generated a tool to create immersive 360 image and video content
 7. [James Greenaway](https://jvg.omg.lol/)
@@ -49,3 +50,9 @@ yard sale, hackney rd.
 - 50 napkins
 - many little stickers of hearts and stars
 - neon citrus name stickers
+
+## note
+
+afterwards we all went up on the roof, and someone crossed the room to offer someone a job, and everybody was so cheerful and so peaceful.
+
+as we roll into the summer months, maybe we can all be up there, watch the sun set over shoreditch, get that tingle on the skin when it's only dark eleven in the night
