@@ -48,7 +48,7 @@ yard sale, hackney rd.
 - moretti
 - lime dash
 - contents of the fridge at Newspeak House (I saw some G&Ts and some with the green label that i forgot what they're called)
-  - _(is it the little gordons tinnies? hey did you hear they put that chicken wine in a can now? chicken tinnies?)_
+  - _\[Editor's note: is it the little gordons tinnies? hey did you hear they put that chicken wine in a can now? chicken tinnies?\]_
 - lime dash
 - water
 - lime dash
