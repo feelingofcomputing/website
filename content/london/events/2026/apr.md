@@ -11,7 +11,7 @@ title: apr 2026 | feeling of computing, london
 3. [maf](https://mrogalski.eu/)
     - maf demonstrated a cyberpunk future in the here and now
     - ssh'd into a computer in another county with a glasses-connected mechanical keyboard glove
-5. [Nikhar Yadav](https://www.navyayadav.com)
+5. [Nikhar Yadav](https://nikharyadav.cargo.site/)
     - Nikhar took us on a dreamy and beautiful journey making music from nature with the MOTH quantum open-source synth
     - it was so nice to disappear into everyone and listen to the thames
 5. [Jessica Claire Edwards](https://github.com/jsscclr)
