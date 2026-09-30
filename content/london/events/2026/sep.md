@@ -1,4 +1,4 @@
----
+<img width="204" height="79" alt="image" src="https://github.com/user-attachments/assets/561d81de-a9c9-4773-b702-44a9c551f309" />---
 title: sep 2026 | feeling of computing, london
 ---
 
@@ -24,6 +24,21 @@ this was a really special one
 ## pizzas
 
 yard sale, hackney rd.
+
+
+- 2 tsb 
+- 2 aubergine 2.0 
+- 2 ny marg 
+- 1 mush be love 
+
+- 2 vegan margherita 
+- 1 american not
+- 1 magic mushroom 
+
+- 1 margherita (gluten free)
+- 1 mr lava lava (gluten free) (chee hid this and ate this like a naughty vole)
+
+- 1 vegan gluten free margherita
 
 ## drinks
 
