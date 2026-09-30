@@ -25,6 +25,26 @@ this was a really special one
 
 yard sale, hackney rd.
 
+- 2 tsb
+- 2 aubergine 2.0
+- 2 ny marg
+- 1 mush be love
+
+vegan
+
+- 2 vegan margherita
+- 1 american not
+- 1 magic mushroom
+
+gluten free
+
+- 1 margherita gf
+- 1 mr lava lava gf (chee hid this and ate this like a naughty vole)
+
+vegan and gluten free
+
+- 1 vegan gf margherita
+
 ## drinks
 
 - 24 lime dash
