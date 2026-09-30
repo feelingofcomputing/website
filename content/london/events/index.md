@@ -9,3 +9,4 @@ title: past events | feeling of computing, london
 - [april 8th 2026](2026/apr)
 - [may 21st 2026](2026/may)
 - june 26th 2026
+- [sept 25th 2026](2026/sep)
