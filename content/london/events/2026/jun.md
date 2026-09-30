@@ -2,12 +2,14 @@
 title: jun 2026 | feeling of computing, london
 ---
 
+wow that was so fun and so hot
+
 ## demos
 
 1. [Orion Reed](https://www.orionreed.com)
     - Showed us some [Lens-y demos](https://orionreed.github.io/bireactive/)
 2. [Asker Kurt-Elli](https://asker.dev/)
-    - Asker made [Grain](https://asker.dev/) to communicate the author's writing process to a reader on the web 
+    - Asker made [Grain](https://grain.asker.dev/) to communicate the author's writing process to a reader on the web 
 3. [Mia Zeferino-Birchall](https://mzeferinobirchall.myportfolio.com/about-1)
     - The most beautiful, colourful and creative combination of embroidery and computation 
 5. [Conrad Godfrey](https://www.conradgodfrey.com)
@@ -17,7 +19,7 @@ title: jun 2026 | feeling of computing, london
 6. [Dan Groshev](https://dgroshev.com/blog/okmain/)
     - What is the colour of an image? Dan showed us it's as straight forward as you might think!
 7. [Daniel](https://luma.com/londonlivecoding)
-    - Invited us and showed us that we can all put ourselves out there and join creative computing communities <3
+    - Invited to be brave and step into the world of creative computing communities <3
 
 ## drinks
 
@@ -30,7 +32,7 @@ title: jun 2026 | feeling of computing, london
 
 ## pizzas
 
-yard sale, hackney rd. I think it was same as last time:
+yard sale, hackney rd. I think it was same as last time? :
 
 - 4 TSB
 - 2 margherita
@@ -44,3 +46,7 @@ yard sale, hackney rd. I think it was same as last time:
 ## miscellany
 
 - 100 napkins
+
+## comments 
+
+- i saw the most amazing impression of a curlew
