@@ -1,4 +1,4 @@
-<img width="204" height="79" alt="image" src="https://github.com/user-attachments/assets/561d81de-a9c9-4773-b702-44a9c551f309" />---
+---
 title: sep 2026 | feeling of computing, london
 ---
 
