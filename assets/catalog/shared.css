@@ -57,22 +57,22 @@ article {
 }
 
 section {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 p {
-    padding-right: 0;
-    vertical-align: baseline;
-    line-height: 1.6em;
+  padding-right: 0;
+  vertical-align: baseline;
+  line-height: 1.6em;
 }
 
 section > ul,
 section > p,
 section > footer,
 section > table {
-    width: 80%;
-    max-width: 900px;
+  width: 80%;
+  max-width: 900px;
 }
 
 img {
@@ -82,51 +82,52 @@ img {
 
 a:link,
 a:visited {
-    color: inherit;
+  color: inherit;
 }
 
 body {
-    width: 87.5%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 5%;
-    font-family: 'Noto Serif JP', serif;
-    background-color: #fffff8;
-    color: #111;
-    max-width: 1400px;
-    counter-reset: sidenote-counter;
+  width: 87.5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5%;
+  font-family: 'Noto Serif JP', serif;
+  background-color: #fffff8;
+  color: #111;
+  max-width: 1400px;
+  counter-reset: sidenote-counter;
 }
 
 @media (max-width: 760px) {
-     article {
-      background: #fffff8;
-      padding: 2rem 0rem;
+  article {
+    background: #fffff8;
+    padding: 2rem 0rem;
 
-    }
+  }
 
-    body {
-        width: 82%;
-        padding-left: 8%;
-        padding-right: 8%;
-    }
+  body {
+    width: 82%;
+    padding-left: 8%;
+    padding-right: 8%;
+  }
 
-    hr,
-    reviewsAndTags,
-    section > p,
-    section > footer,
-    section > table {
-        width: 100%;
-    }
+  hr,
+  #reviewsAndTags,
+  section > p,
+  section > footer,
+  section > table
+  section > ul {
+    width: 100%;
+  }
 
-    img {
-      width: 100%;
-    }
-    .video {
-        width: 100%;
-        height: 219px;
-    }
-    .loom {
-      width: 100%;
-      height: 236px;
-    }
+  img {
+    width: 100%;
+  }
+  .video {
+    width: 100%;
+    height: 219px;
+  }
+  .loom {
+    width: 100%;
+    height: 236px;
+  }
 }
