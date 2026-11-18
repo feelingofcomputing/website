@@ -1,1 +1,7 @@
-{ "trailingSlash": true }
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/demo", "destination": "https://feelingof.london/demo", "permanent": false },
+    { "source": "/demo/", "destination": "https://feelingof.london/demo", "permanent": false }
+  ]
+}
